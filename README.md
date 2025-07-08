@@ -17,17 +17,6 @@ To automatically monitor the **CPU usage** of an EC2 instance and send notificat
 
 ---
 
-## 📸 Setup Screenshots
-
-| Step | Screenshot |
-|------|------------|
-| CloudWatch Dashboard | ![](screenshots/1_dashboard.png) |
-| Selecting EC2 Metrics | ![](screenshots/2_metrics_selection.png) |
-| Alarm Configuration | ![](screenshots/3_alarm_config.png) |
-| Alarm Created Successfully | ![](screenshots/4_alarm_success.png) |
-
----
-
 ## 📦 Steps to Recreate This Project
 
 1. Launch an EC2 instance and ensure it's running.
